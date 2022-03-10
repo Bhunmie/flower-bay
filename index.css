@@ -1,0 +1,47 @@
+.nv2{
+    background-color: rgb(56, 24, 2);
+}
+.nvo2{
+    display: flex;
+justify-content: space-between;
+
+}
+.firstcol{
+    margin-top: 200px;
+    padding-left: 200px;
+    color: rgb(56, 24, 2);
+}
+.concolor{
+    background-color: rgb(241, 238, 238);
+    padding-bottom: 50px;
+}
+.concolor2{
+    background-color: rgb(56, 24, 2);
+    padding-bottom: 10px;
+    color: white;
+}
+.h1o{
+    margin-top: 100px;
+}
+.rocolor{
+justify-content: center;
+text-align: center;
+color: rgb(77, 33, 2);
+}
+.crd{
+    text-align: center;
+}
+/* .rolls{
+    justify-content: center;
+  
+   padding: 50px;
+} */
+
+.rolls{
+    padding-top: 80px;
+    color: rgb(56, 24, 2);
+}
+.rollsc{
+    /* padding-left: 300px; */
+    padding-top: 50px;
+}
